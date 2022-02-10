@@ -13,5 +13,3 @@ sh $ROOT_PATH/chat-want-to-say/bin/build.sh preview
 cp -r $ROOT_PATH/chat-want-to-say/dist/** $BASE_PATH/dist/chat-want-to-say/
 # build birth want to say
 cp -r $ROOT_PATH/birth-want-to-say/** $BASE_PATH/dist/birth-want-to-say/
-# preview pages
-anywhere -d $BASE_PATH/dist
