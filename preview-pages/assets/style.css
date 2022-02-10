@@ -87,10 +87,7 @@ body {
 
 .card:hover .card__background {
     transform: scale(1.05) translateZ(0);
-}
-
-.card-grid:hover > .card:not(:hover) .card__background {
-    filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+    filter: brightness(0.5) saturate(1) contrast(1.2) blur(4px);
 }
 
 .card__content {
