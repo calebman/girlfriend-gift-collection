@@ -57,6 +57,9 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐～",
-        story: "A MESSAGE FOR YOU",
-    }
+        story: "A MESSAGE FOR YOU"
+    },
+
+    // 结束语
+    loveText: '爱你的X先生~'
 };
