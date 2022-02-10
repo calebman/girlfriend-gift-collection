@@ -1,7 +1,8 @@
 # 这是什么东西？
 
-# 演示程序
+以聊天交互的方式向女朋友表达想说的话，支持便捷的内容配置，急速替换为自己想要的内容，点击下方链接预览效果。
 
+[https://calebman.github.io/girlfriend-gift-collection/chat-want-to-say/](https://calebman.github.io/girlfriend-gift-collection/chat-want-to-say/)
 # 如何修改为自己的内容
 
 ### 一. 修改配置文件
