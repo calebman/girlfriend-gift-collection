@@ -1,6 +1,6 @@
 # 这是什么东西？
 
-> 参考来自 https://github.com/AJLoveChina/birthday
+> 源码来自 https://github.com/AJLoveChina/birthday 基本没做改动
 >
 
 一个女朋友生日的程序员解决方案，支持便捷的内容配置，急速替换为自己想要的内容，点击下方链接预览效果。

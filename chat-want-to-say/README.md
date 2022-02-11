@@ -1,5 +1,8 @@
 # 这是什么东西？
 
+> 参考来自 https://github.com/wongjohn/for-my-love 并做了部分改造
+>
+
 以聊天交互的方式向女朋友表达想说的话，支持便捷的内容配置，急速替换为自己想要的内容，点击下方链接预览效果。
 
 - 国内用户访问：[https://sg.chenjianhui.site/girlfriend-gift-collection/chat-want-to-say/](https://sg.chenjianhui.site/girlfriend-gift-collection/chat-want-to-say/)
