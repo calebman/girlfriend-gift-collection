@@ -7,5 +7,8 @@
 
 点击下方链接预览效果：
 
+> 全部对移动版做好了适配，可使用 chrome 移动端模式进行预览查看效果。
+> 
+
 - 国内用户访问: [https://sg.chenjianhui.site/girlfriend-gift-collection/](https://sg.chenjianhui.site/girlfriend-gift-collection/)
 - Github Pages: [https://calebman.github.io/girlfriend-gift-collection/](https://calebman.github.io/girlfriend-gift-collection/)
