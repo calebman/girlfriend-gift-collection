@@ -183,5 +183,5 @@ anywhere
 ### 四. 部署至静态服务器
 
 ```bash
-scp -r /dist/** root@domain:/nginx-html/
+scp -r chat-want-to-say/dist/** root@domain:/nginx-html/
 ```
