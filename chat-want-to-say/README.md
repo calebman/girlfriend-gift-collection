@@ -2,7 +2,7 @@
 
 以聊天交互的方式向女朋友表达想说的话，支持便捷的内容配置，急速替换为自己想要的内容，点击下方链接预览效果。
 
-- 国内用户访问：[https://sg.chenjianhui.site/girlfriend-gift-collection/chat-want-to-say/](https://calebman.github.io/girlfriend-gift-collection/chat-want-to-say/)
+- 国内用户访问：[https://sg.chenjianhui.site/girlfriend-gift-collection/chat-want-to-say/](https://sg.chenjianhui.site/girlfriend-gift-collection/chat-want-to-say/)
 - Github Pages: [https://calebman.github.io/girlfriend-gift-collection/chat-want-to-say/](https://calebman.github.io/girlfriend-gift-collection/chat-want-to-say/)
 # 如何修改为自己的内容
 

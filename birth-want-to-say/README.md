@@ -5,7 +5,7 @@
 
 一个女朋友生日的程序员解决方案，支持便捷的内容配置，急速替换为自己想要的内容，点击下方链接预览效果。
 
-- 国内用户访问：[https://sg.chenjianhui.site/girlfriend-gift-collection/birth-want-to-say/](https://calebman.github.io/girlfriend-gift-collection/birth-want-to-say/)
+- 国内用户访问：[https://sg.chenjianhui.site/girlfriend-gift-collection/birth-want-to-say/](https://sg.chenjianhui.site/girlfriend-gift-collection/birth-want-to-say/)
 - Github Pages: [https://calebman.github.io/girlfriend-gift-collection/birth-want-to-say/](https://calebman.github.io/girlfriend-gift-collection/birth-want-to-say/)
 # 如何修改为自己的内容
 
